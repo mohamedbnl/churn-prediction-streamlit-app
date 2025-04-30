@@ -16,8 +16,6 @@ The model was trained using a dataset of customer behavior and deployed with **S
 ├── Churn_Modelling.csv # Dataset used for training 
 ├── churn.ipynb # Jupyter notebook: training + model export 
 ├── knn_churn2.pkl # Trained KNN model 
-├── streamlit_app.py # Streamlit web application 
-
 
 ## 🧠 Model
 
